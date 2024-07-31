@@ -11,3 +11,5 @@
 3. Запускаете файл **postgres_services_restarter.exe** и ждёте закрытия консоли. Готово.
 
 Советую создать ярлык файла postgres_services_restarter.exe и вынести на рабочий столю
+
+Проверено на Windows 10/11
